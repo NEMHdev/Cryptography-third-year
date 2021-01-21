@@ -1,0 +1,8 @@
+I tested my linear equation solver with two examples:
+
+3x = 2 (mod 7)
+x = 3
+
+17x = 1 (mod 43)
+x = 38
+

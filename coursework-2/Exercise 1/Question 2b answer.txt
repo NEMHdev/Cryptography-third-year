@@ -1,0 +1,3 @@
+GCD = 2
+Therefore
+x = null

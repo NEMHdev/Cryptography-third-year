@@ -1,0 +1,12 @@
+For question 2a the result of the gcd was 1 so they where coprime, 
+however the result of gcd for 2b was 2.
+
+The result of the isNPrime method for 2a: N is Prime
+N is prime with certainity 1 is true
+N is prime with certainity 2 is true
+N is prime with certainity -1 is true
+
+The result of the isNPrime method for 2b: N is Not Prime
+N is prime with certainity 1 is false
+N is prime with certainity 2 is false
+N is prime with certainity -1 is true
